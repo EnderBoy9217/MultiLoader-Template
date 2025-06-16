@@ -1,7 +1,7 @@
-package com.example.examplemod.platform;
+package com.enderboy9217.examplemod.platform;
 
-import com.example.examplemod.Constants;
-import com.example.examplemod.platform.services.IPlatformHelper;
+import com.enderboy9217.examplemod.Constants;
+import com.enderboy9217.examplemod.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

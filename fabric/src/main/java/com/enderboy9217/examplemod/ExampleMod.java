@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.enderboy9217.examplemod;
 
 import net.fabricmc.api.ModInitializer;
 

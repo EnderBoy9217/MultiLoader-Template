@@ -1,6 +1,6 @@
-package com.example.examplemod;
+package com.enderboy9217.examplemod;
 
-import com.example.examplemod.platform.Services;
+import com.enderboy9217.examplemod.platform.Services;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.world.item.Items;
 

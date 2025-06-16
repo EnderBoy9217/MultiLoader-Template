@@ -1,6 +1,6 @@
-package com.example.examplemod.platform;
+package com.enderboy9217.examplemod.platform;
 
-import com.example.examplemod.platform.services.IPlatformHelper;
+import com.enderboy9217.examplemod.platform.services.IPlatformHelper;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
 

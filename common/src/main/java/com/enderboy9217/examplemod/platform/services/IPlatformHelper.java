@@ -1,4 +1,4 @@
-package com.example.examplemod.platform.services;
+package com.enderboy9217.examplemod.platform.services;
 
 public interface IPlatformHelper {
 
